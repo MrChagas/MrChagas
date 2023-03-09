@@ -1,7 +1,7 @@
 🤓 Hi there 👋
 
 - 🔭 Agora trabalho com Marketing
-- 🌱 Estudando Python e Java
+- 🌱 Estudando Python e HTML5
 
 <div align="center">
     <a href="https://github.com/MrChagas">
