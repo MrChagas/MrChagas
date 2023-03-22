@@ -1,7 +1,7 @@
 🤓 Hi there 👋
 
 - 🔭 Agora trabalho com Marketing
-- 🌱 Estudando Python e HTML5
+- 🌱 Estudando Python, HTML5 e CSS3
 
 <div align="center">
     <a href="https://github.com/MrChagas">
@@ -12,8 +12,9 @@
 #
 
 <div align="center" style="display: inline-block">
-    <img align="center" alt="MrChagas-python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="MrChagas-HTML5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="MrChagas-python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img align="center" alt="MrChagas-HTML5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img align="center" alt="MrChagas-CSS3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    
 #
 
