@@ -3,12 +3,12 @@
 - 🔭 Agora trabalho com Marketing
 - 🌱 Estudando Python, HTML5 e CSS3
 
-<div align="center">
+<!--<div align="center">
     <a href="https://github.com/MrChagas">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MrChagas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChagas&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+-->
 #
 
 <div align="center" style="display: inline-block">
