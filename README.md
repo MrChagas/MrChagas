@@ -1,7 +1,8 @@
 🤓 Hi there 👋
 
 - 🔭 Agora trabalho com Marketing
-- 🌱 Estudando Python, HTML5 e CSS3
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- Participando de um BootCamp de Ciencia de Dados
 
 <div align="center">
     <a href="https://github.com/MrChagas">
