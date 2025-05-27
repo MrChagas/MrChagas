@@ -1,8 +1,8 @@
 🤓 Hi there 👋
 
 - 🔭 Agora trabalho com Marketing
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- Participando de um BootCamp de Ciencia de Dados
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
+- Criando robôs para comunicação e desenvolvendo sites para empresas
 
 <div align="center">
     <a href="https://github.com/MrChagas">
